@@ -2,6 +2,7 @@
 
 The data is **not stored in this repository**. It comes from the lecturer's shared Google Drive folder .
 The data can be made available upon request, subject to the lecturer's permission.
+
 | File | Contents |
 |---|---|
 | `train.zip` | 50,000 colour images, 32×32 PNG, named `<id>.png` (labelled and test images together) |

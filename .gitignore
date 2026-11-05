@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+# data and large model files live on Google Drive
+data/*
+!data/README.md
+models/*
+!models/README.md
+*.zip
+*.pt
+.vscode/
+.DS_Store
+Thumbs.db
